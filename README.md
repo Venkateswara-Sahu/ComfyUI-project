@@ -59,8 +59,3 @@ uvicorn api_server.main:app --host 0.0.0.0 --port 8000
 | `/upload_model`  | POST   | Uploads custom LoRA model |
 | `/status`        | GET    | Checks API health         |
 
-## 📌 Contribution
-Feel free to contribute to this project by creating issues, submitting pull requests, or improving documentation.
-
-## 📜 License
-This project is licensed under [MIT License](LICENSE).
